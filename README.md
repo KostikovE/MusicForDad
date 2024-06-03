@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сейчас+я+пишу+эмбиент)](https://git.io/typing-svg)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Для быстрого доступа к тем, которые, возможно, понравились
 | Название трека  | ссылка на папку с файлом |
