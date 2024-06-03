@@ -13,7 +13,7 @@
 | Project_38  | [ссылочка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/Project_38.flac)  |
 | spiral  | [ссылочечка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/spiral.flac)  |
 | Fairy  | [ссылочулечка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/Fairy.mp3)  |
-| Fairy  | [ссылочулечка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/Fairy.mp3)  |
+| Butterffk  | [ссылочулечка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/Butterffk.mp3)  |
 
 
 ![image](https://github.com/KostikovE/MusicForDad/assets/169641706/267a7875-4f9e-474e-b338-207547fbd83f)
