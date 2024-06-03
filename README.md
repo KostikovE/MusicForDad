@@ -15,5 +15,5 @@
 
 
 
-(![image](https://github.com/KostikovE/MusicForDad/assets/169641706/267a7875-4f9e-474e-b338-207547fbd83f))
+![image](https://github.com/KostikovE/MusicForDad/assets/169641706/267a7875-4f9e-474e-b338-207547fbd83f)
 
