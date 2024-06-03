@@ -6,5 +6,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Сейчас+я+пишу+эмбиент)](https://git.io/typing-svg)
 | Название трека  | ссылка на папку с файлом |
 | ------------- | ------------- |
-| Project_38  | Content Cell  |
+| Project_38  | [https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/Project_38.flac]  |
 | Content Cell  | Content Cell  |
