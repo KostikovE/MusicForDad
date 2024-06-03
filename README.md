@@ -10,4 +10,5 @@
 | Название трека  | ссылка на папку с файлом |
 | ------------- | ------------- |
 | Project_38  | [ссылочка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/Project_38.flac)  |
-| spiral  | [ссылочечкаъ(https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/spiral.flac)  |
+| spiral  | [ссылочечка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/spiral.flac)  |
+| spiral  | [ссылочечка](https://github.com/KostikovE/MusicForDad/blob/main/Music/Ambient/spiral.flac)  |
